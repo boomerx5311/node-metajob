@@ -1,0 +1,16 @@
+{
+  "name": "metajob",
+  "version": "0.0.0",
+  "description": "periodic job scheduler for Joyent Manta",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joyent/node-metajob.git"
+  },
+  "author": "Joshua M. Clulow <jmc@joyent.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joyent/node-metajob/issues"
+  },
+  "homepage": "https://github.com/joyent/node-metajob#readme"
+}
